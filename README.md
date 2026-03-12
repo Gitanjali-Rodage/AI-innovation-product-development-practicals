@@ -2,7 +2,7 @@
 
 **Name:** Gitanjali Sunil Rodage
 **Class:** TY-B
-**Branch:** AI & Data Science
+**Branch:** AI & DS
 **Roll No:** 2317105
 **Batch:** B
 
